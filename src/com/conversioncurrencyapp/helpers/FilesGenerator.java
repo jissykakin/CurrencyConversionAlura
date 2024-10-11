@@ -49,6 +49,7 @@ public class FilesGenerator {
             if (conversions.size() == 0){
                 System.out.println("El Archivo esta vacio");
             }
+            System.out.println("Históricos de conversiones realizadas\n");
             for ( HistoryConversion conversion : conversions ){
 
                 System.out.println("""

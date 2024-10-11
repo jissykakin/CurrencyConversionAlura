@@ -152,5 +152,38 @@
       "conversion_result": 2.3648194594595E13,
       "amount": 4.64564564564577E12
     }
+  },
+  {
+    "typeConversion": "USDToCOP",
+    "dateOfConversion": "Oct 10, 2024, 11:59:48 PM",
+    "history": {
+      "base_code": "USD",
+      "target_code": "COP",
+      "conversion_rate": 4236.9659,
+      "conversion_result": 1910447.92431,
+      "amount": 450.9
+    }
+  },
+  {
+    "typeConversion": "SGDToUGX",
+    "dateOfConversion": "Oct 11, 2024, 12:05:47 AM",
+    "history": {
+      "base_code": "SGD",
+      "target_code": "UGX",
+      "conversion_rate": 2811.475,
+      "conversion_result": 1.90618005E9,
+      "amount": 678000.0
+    }
+  },
+  {
+    "typeConversion": "SGDToRUB",
+    "dateOfConversion": "Oct 11, 2024, 12:07:27 AM",
+    "history": {
+      "base_code": "SGD",
+      "target_code": "RUB",
+      "conversion_rate": 74.1686,
+      "conversion_result": 5.034564568E8,
+      "amount": 6788000.0
+    }
   }
 ]

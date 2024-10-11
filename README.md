@@ -51,7 +51,6 @@ Las opciones del 1 al 8 permitirán generar una conversión manual a través de 
 
 ![image](https://github.com/user-attachments/assets/34e62f45-e3c7-4b7b-8894-32ddb4a1a2db)
 
-
 ## Opciones Avanzadas 🛠️
 Dentro de las Opciones Avanzadas podrás realizar las siguientes acciones:
 ```
@@ -65,16 +64,16 @@ Menú Opciones Avanzadas:
 ### 1. Conversión Personalizada
 Permite realizar conversiones entre monedas utilizando códigos válidos proporcionados por la API., realizando la conversion directamente de la API :
  - Genera una lista de los códigos validos por la api a traves de la consulta a la ruta ```GET https://v6.exchangerate-api.com/v6/YOUR-API-KEY/codes)```
+    ![image](https://github.com/user-attachments/assets/805ceaa4-edb4-4e49-8c2b-10fa792921e1)
 
-   ![image](https://github.com/user-attachments/assets/805ceaa4-edb4-4e49-8c2b-10fa792921e1)
 
- - Debe ingresar los códigos válidos de la moneda base y la moneda a convertir y el valor que desea convertir
-
-   ![image](https://github.com/user-attachments/assets/d3db2f32-05d6-4550-8321-2d858da42bed)
+ - Debe ingresar los códigos válidos de la moneda base y la moneda a convertir y el valor que desea convertir.
+    ![image](https://github.com/user-attachments/assets/d3db2f32-05d6-4550-8321-2d858da42bed)
 
 
 ### 2. Ver Histórico
 Muestra todas las conversiones realizadas durante la sesión, creando persistencia a través de un archivo Json utilizando la libreria GSON.
+
 
 ![image](https://github.com/user-attachments/assets/6683dba6-4c3e-4801-853d-72e50be6eb4e)
 

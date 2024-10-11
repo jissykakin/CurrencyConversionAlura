@@ -17,7 +17,7 @@ public class CommansCurrency {
 
     public CurrencyConversion getConversionCurrency(String baseCode, String targetCode, boolean isCalcule) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("por favor, ingrese el valor en " + baseCode + " a convertir:");
+        System.out.println("Por favor, ingrese el valor en " + baseCode + " a convertir:");
 
         double amount = solicitarCantidad(scanner, baseCode);
 
@@ -84,7 +84,7 @@ public class CommansCurrency {
         CurrencyServices services = new CurrencyServices();
 
         List<Currency> currencies = services.currencyCodes();
-        System.out.println("Listado de Codigos de Modedas permitidos para conversión");
+        System.out.println("Listado de Códigos de Monedas permitidos para conversión");
 
         for (Currency currency : currencies) {
             System.out.println(currency.toString());

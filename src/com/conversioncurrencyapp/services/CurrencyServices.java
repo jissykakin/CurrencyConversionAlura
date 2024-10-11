@@ -25,8 +25,6 @@ public class CurrencyServices {
 
             URI uriApi = URI.create(baseURL + "/pair/" + base_code + "/" + target_code + "/" + number.toPlainString());
 
-            System.out.println(uriApi);
-
             HttpClient client = HttpClient.newHttpClient();
             HttpRequest request = HttpRequest.newBuilder()
                     .uri(uriApi)
@@ -45,7 +43,7 @@ public class CurrencyServices {
             return conversion;
 
         } catch (IOException | InterruptedException e) {
-            System.out.println("error al convertir" + e);
+            System.out.println("Error al convertir" + e);
             return null;
 
         } catch (Exception e) {
@@ -77,7 +75,7 @@ public class CurrencyServices {
             return conversion;
 
         } catch (IOException | InterruptedException e) {
-            System.out.println("error al realizar la conversion hable con el administrador" + e);
+            System.out.println("Error al realizar la conversión, hable con el administrador" + e);
             return null;
         } catch (Exception e) {
             throw new RuntimeException(e);
@@ -116,7 +114,7 @@ public class CurrencyServices {
 
 
         } catch (IOException | InterruptedException e) {
-            System.out.println("error al realizar la conversion hable con el administrador" + e);
+            System.out.println("Error al realizar la conversión, hable con el administrador" + e);
             return null;
         } catch (Exception e) {
             throw new RuntimeException(e);
