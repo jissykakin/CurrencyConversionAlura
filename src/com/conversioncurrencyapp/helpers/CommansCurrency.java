@@ -17,9 +17,10 @@ public class CommansCurrency {
 
     public CurrencyConversion getConversionCurrency(String baseCode, String targetCode, boolean isCalcule) {
         Scanner scanner = new Scanner(System.in);
+        CommansScanner commansScanner = new CommansScanner();
         System.out.println("Por favor, ingrese el valor en " + baseCode + " a convertir:");
 
-        double amount = solicitarCantidad(scanner, baseCode);
+        double amount = commansScanner.solicitarCantidad(scanner, baseCode);
 
         CurrencyConversion conversion;
         if (isCalcule){
@@ -47,15 +48,7 @@ public class CommansCurrency {
 
 
 
-    public double solicitarCantidad(Scanner scanner, String message) {
 
-
-        while (!scanner.hasNextDouble()){
-            System.out.println("Por favor, ingrese un valor númerico válido: ");
-            scanner.next();
-        };
-        return scanner.nextDouble();
-    }
 
 
 

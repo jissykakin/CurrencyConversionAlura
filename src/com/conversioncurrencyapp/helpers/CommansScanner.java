@@ -40,4 +40,13 @@ public class CommansScanner {
         return scanner.nextInt();
     }
 
+    public double solicitarCantidad(Scanner scanner, String message) {
+
+        while (!scanner.hasNextDouble()){
+            System.out.println("Por favor, ingrese un valor númerico válido: ");
+            scanner.next();
+        };
+        return scanner.nextDouble();
+    }
+
 }

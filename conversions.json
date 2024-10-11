@@ -185,5 +185,27 @@
       "conversion_result": 5.034564568E8,
       "amount": 6788000.0
     }
+  },
+  {
+    "typeConversion": "USDToCOP",
+    "dateOfConversion": "Oct 11, 2024, 12:23:38 AM",
+    "history": {
+      "base_code": "USD",
+      "target_code": "COP",
+      "conversion_rate": 4236.9659,
+      "conversion_result": 2.9184221119200002E7,
+      "amount": 6888.0
+    }
+  },
+  {
+    "typeConversion": "VESToXCD",
+    "dateOfConversion": "Oct 11, 2024, 12:24:02 AM",
+    "history": {
+      "base_code": "VES",
+      "target_code": "XCD",
+      "conversion_rate": 0.07171,
+      "conversion_result": 469446.35976,
+      "amount": 6546456.0
+    }
   }
 ]
