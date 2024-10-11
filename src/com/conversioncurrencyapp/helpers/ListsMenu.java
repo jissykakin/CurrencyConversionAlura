@@ -27,8 +27,8 @@ public class ListsMenu {
 
         System.out.println("Menú Opciones Avanzadas:");
         System.out.println("1. Conversión personalizada");
-        System.out.println("2. Ver historico de conversiones realizadas");
-        System.out.println("3. Borrar Historico");
+        System.out.println("2. Ver histórico de conversiones realizadas");
+        System.out.println("3. Borrar histórico");
         System.out.println("0. Regresar a menú principal");
 
         System.out.println("Ingrese una opción:\n");
