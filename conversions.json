@@ -1,0 +1,156 @@
+[
+  {
+    "typeConversion": "PGKToSTN",
+    "dateOfConversion": "Oct 10, 2024, 9:15:50 PM",
+    "history": {
+      "base_code": "PGK",
+      "target_code": "STN",
+      "conversion_rate": 5.6989,
+      "conversion_result": 431264.2575,
+      "amount": 75675.0
+    }
+  },
+  {
+    "typeConversion": "USDToCOP",
+    "dateOfConversion": "Oct 10, 2024, 9:27:24 PM",
+    "history": {
+      "base_code": "USD",
+      "target_code": "COP",
+      "conversion_rate": 4236.9659,
+      "conversion_result": 38132.693100000004,
+      "amount": 9.0
+    }
+  },
+  {
+    "typeConversion": "USDToWST",
+    "dateOfConversion": "Oct 10, 2024, 9:39:36 PM",
+    "history": {
+      "base_code": "USD",
+      "target_code": "WST",
+      "conversion_rate": 2.6962,
+      "conversion_result": 1.2550155167865E13,
+      "amount": 4.654756756867E12
+    }
+  },
+  {
+    "typeConversion": "VNDToUSD",
+    "dateOfConversion": "Oct 10, 2024, 9:40:34 PM",
+    "history": {
+      "base_code": "VND",
+      "target_code": "USD",
+      "conversion_rate": 4.027E-5,
+      "conversion_result": 1.826066003225,
+      "amount": 45345.5675
+    }
+  },
+  {
+    "typeConversion": "USDToVND",
+    "dateOfConversion": "Oct 10, 2024, 9:41:39 PM",
+    "history": {
+      "base_code": "USD",
+      "target_code": "VND",
+      "conversion_rate": 24833.9373,
+      "conversion_result": 8.777668033764E8,
+      "amount": 35345.4546
+    }
+  },
+  {
+    "typeConversion": "USDToCOP",
+    "dateOfConversion": "Oct 10, 2024, 9:59:17 PM",
+    "history": {
+      "base_code": "USD",
+      "target_code": "COP",
+      "conversion_rate": 4236.9659,
+      "conversion_result": 2.392021468504E8,
+      "amount": 56456.0
+    }
+  },
+  {
+    "typeConversion": "USDToCOP",
+    "dateOfConversion": "Oct 10, 2024, 9:59:45 PM",
+    "history": {
+      "base_code": "USD",
+      "target_code": "COP",
+      "conversion_rate": 4236.9659,
+      "conversion_result": 2405181.4845894002,
+      "amount": 567.666
+    }
+  },
+  {
+    "typeConversion": "USDToEUR",
+    "dateOfConversion": "Oct 10, 2024, 10:00:12 PM",
+    "history": {
+      "base_code": "USD",
+      "target_code": "EUR",
+      "conversion_rate": 0.9148,
+      "conversion_result": 610.8823996,
+      "amount": 667.777
+    }
+  },
+  {
+    "typeConversion": "COPToUSD",
+    "dateOfConversion": "Oct 10, 2024, 10:00:29 PM",
+    "history": {
+      "base_code": "COP",
+      "target_code": "USD",
+      "conversion_rate": 2.3602E-4,
+      "conversion_result": 1.3608410234272936E8,
+      "amount": 5.765786896988787E11
+    }
+  },
+  {
+    "typeConversion": "USDToCOP",
+    "dateOfConversion": "Oct 10, 2024, 10:17:02 PM",
+    "history": {
+      "base_code": "USD",
+      "target_code": "COP",
+      "conversion_rate": 4236.9659,
+      "conversion_result": 0.0,
+      "amount": 0.0
+    }
+  },
+  {
+    "typeConversion": "RSDToUSD",
+    "dateOfConversion": "Oct 10, 2024, 10:18:20 PM",
+    "history": {
+      "base_code": "RSD",
+      "target_code": "USD",
+      "conversion_rate": 0.009339,
+      "conversion_result": 4.2628476873526E9,
+      "amount": 4.56456546456E11
+    }
+  },
+  {
+    "typeConversion": "UAHToUSD",
+    "dateOfConversion": "Oct 10, 2024, 10:18:42 PM",
+    "history": {
+      "base_code": "UAH",
+      "target_code": "USD",
+      "conversion_rate": 0.02426,
+      "conversion_result": 1124.3652322634,
+      "amount": 46346.464644
+    }
+  },
+  {
+    "typeConversion": "VESToUSD",
+    "dateOfConversion": "Oct 10, 2024, 10:22:40 PM",
+    "history": {
+      "base_code": "VES",
+      "target_code": "USD",
+      "conversion_rate": 0.02656,
+      "conversion_result": 1236.2792247936,
+      "amount": 46546.65756
+    }
+  },
+  {
+    "typeConversion": "VUVToXAF",
+    "dateOfConversion": "Oct 10, 2024, 10:23:36 PM",
+    "history": {
+      "base_code": "VUV",
+      "target_code": "XAF",
+      "conversion_rate": 5.0904,
+      "conversion_result": 2.3648194594595E13,
+      "amount": 4.64564564564577E12
+    }
+  }
+]
